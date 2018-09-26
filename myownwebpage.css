@@ -1,0 +1,140 @@
+.mainhead{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 35px;
+  margin-left:200px ;
+}
+
+.navbar{
+  background:#222222!important;
+  width:100%
+}
+
+
+
+.navbar-nav{
+  margin-left:800px;
+}
+
+.nav-item
+{
+  padding:0px 30px;
+}
+
+.nav-link
+{
+  font-family: 'Squada One', cursive;
+  color:white !important;
+  font-size: 21px;
+}
+
+#about{
+
+  background:#222222;
+  height:100%;
+}
+
+.imgcont
+{
+    padding-top: 150px;
+}
+
+.image
+{
+
+  border:0px solid black;
+  border-radius:50%;
+  height:190px;
+  width: 190px;
+  display: block;
+  margin:auto;
+
+}
+
+.hey
+{
+  font-family: 'Lato', sans-serif;
+  margin-top:28px;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  margin-left: 300px;
+
+}
+
+.mad1
+{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size: 20px;
+  margin-left: 400px;
+  margin-top:30px;
+}
+
+.mad2
+{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top:30px;
+}
+.mad3
+{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-size: 20px;
+  margin-left: 600px;
+
+}
+#portfolio{
+
+  background:white;
+  height:100%;
+}
+
+#maintitle_2
+{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size:48px;
+  font-weight: bold;
+  margin-top:100px;
+}
+
+.projects{
+  margin-top: 100px;
+  margin-left:150px;
+
+}
+.img1
+{
+  display:inline-block;
+  width:25%;
+  height:50%;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  filter: grayscale(100%);
+}
+.img2
+{
+  display:inline-block;
+  width:25%;
+  height:50%;
+  margin-bottom: 100px;
+  filter: grayscale(100%);
+
+}
+
+.img1:hover
+{
+  transform: scale(1.2);
+  filter: grayscale(0%);
+}
+.img2:hover
+{
+  transform: scale(1.2);
+  filter: grayscale(0%);
+}
+#project1
+{
+}
