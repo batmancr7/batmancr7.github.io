@@ -195,3 +195,20 @@
 {
   transform: scale(1.2);
 }
+
+
+@media screen and (max-width: 576px) {
+  .image
+  {
+
+    border:0px solid black;
+    border-radius:50%;
+    height:210px;
+    width: 210px;
+    display: block;
+    margin:auto;
+
+  }
+
+
+}
