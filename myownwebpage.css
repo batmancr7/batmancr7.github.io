@@ -1,3 +1,4 @@
+
 .mainhead{
   font-family: 'Kaushan Script', cursive;
   font-size: 35px;
@@ -5,13 +6,13 @@
 
 .navbar{
   background:#222222!important;
-  width:100%
 }
 
-.nav-item
-{
-  padding:0px 30px;
+.collapse{
+
+
 }
+
 
 .nav-link
 {
@@ -95,38 +96,24 @@
 
 .projects{
   margin-top: 100px;
-  margin-left:150px;
 
 }
-.img1
+.img
 {
   display:inline-block;
-  width:25%;
-  height:50%;
-  margin-right: 100px;
-  margin-bottom: 100px;
-  filter: grayscale(100%);
-}
-.img2
-{
-  display:inline-block;
-  width:25%;
+  width:10%;
   height:50%;
   margin-bottom: 100px;
   filter: grayscale(100%);
 
 }
 
-.img1:hover
+.img:hover
 {
-  transform: scale(1.2);
+  transform: scale(1.1);
   filter: grayscale(0%);
 }
-.img2:hover
-{
-  transform: scale(1.2);
-  filter: grayscale(0%);
-}
+
 
 .maintitle_3
 {
@@ -176,7 +163,7 @@
 
 .pllist
 {
-  margin-left:120px;
+  margin-left:0px;
 }
 
 .pim1
@@ -188,24 +175,14 @@
 }
 .player:hover
 {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .player1:hover
 {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
-
-
-@media screen and (max-width: 560px) {
-  .image
-  {
-
-    border:0px solid black;
-    border-radius:50%;
-    height:210px;
-    width: 210px;
-    display: block;
-    margin:auto;
-
-  }
+.row
+{
+  margin-right: 0px;
+}
