@@ -180,7 +180,7 @@
   }
   .mainhead{
     font-family: 'Kaushan Script', cursive;
-    font-size: 20px;
+    font-size: 2.8vh;
   }
   navbar{
     background:#222222!important;
@@ -203,7 +203,7 @@
   #about{
 
     background:#222222;
-    height:100%;
+    height:100vh;
   }
 
   .imgcont
@@ -231,7 +231,7 @@
     font-weight: bold;
     letter-spacing: 1.5px;
     text-align: center;
-    font-size: 22px;
+    font-size: 3.5vh;
     padding: 0px 22px;
   }
 
@@ -239,7 +239,7 @@
   {
     font-family: 'Montserrat', sans-serif;
     color:white;
-    font-size: 16px;
+    font-size: 2.5vh;
     margin-top:30px;
     text-align: center;
     padding: 0px 22px;
@@ -249,8 +249,8 @@
   {
     font-family: 'Montserrat', sans-serif;
     color:white;
-    font-size: 16px;
-    margin-top:30px;
+    font-size: 2.5vh;
+    margin-top:20px;
     text-align: center;
     padding: 0px 22px;
   }
@@ -258,7 +258,7 @@
   {
     font-family: 'Montserrat', sans-serif;
     color:white;
-    font-size: 16px;
+    font-size: 2.5vh;
     text-align: center;
     padding: 0px 22px;
   }
@@ -281,7 +281,7 @@
   .img
   {
     width:90%;
-    height:60%;
+    height:60vh;
     filter: grayscale(100%);
     padding-left:70px;
     padding-bottom: 50px;
