@@ -176,7 +176,7 @@
 
 @media all and (max-width: 700px) {
   .navbar{
-    background:yellow!important;
+    background:blue!important;
   }
   .mainhead{
     font-family: 'Kaushan Script', cursive;
