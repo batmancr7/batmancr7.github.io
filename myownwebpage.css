@@ -280,10 +280,10 @@
 
   .img
   {
-    width:100%;
+    width:90%;
     height:60%;
     filter: grayscale(100%);
-    padding-left:30px;
+    padding-left:50px;
     padding-bottom: 50px;
 
   }
