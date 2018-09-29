@@ -337,14 +337,8 @@
     height:45vh;
     margin-left:15vw
   }
-  .player:hover
-  {
-    transform: scale(1.1);
-  }
 
-  .player1:hover
-  {    transform: scale(1.1);
-  }
+
   .row
   {
     margin-right: 0px;
