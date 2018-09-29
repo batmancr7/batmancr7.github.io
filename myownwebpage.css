@@ -308,13 +308,14 @@
 
   #football
   {
-    height:140vh;
+    height:180vh;
    background:#222222;
   }
 
   .mad4
   {
-    margin-top:3.3vh;
+    margin-top:2.3vh;
+    margin-bottom: 3.3vh;
     font-family: 'Montserrat', sans-serif;
     color:white;
     font-size:2vh;
@@ -326,15 +327,15 @@
   .player
   {
     width:100%;
-    height:40vh;
+    height:50vh;
     display:  inline-block;
   }
 
   .pim1
   {
-    width:65%;
-    height:35vh;
-    margin-left:20vw
+    width:75%;
+    height:45vh;
+    margin-left:15vw
   }
   .player:hover
   {
