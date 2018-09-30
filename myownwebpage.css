@@ -23,9 +23,23 @@
 }
 
 #about{
-
-  background:#222222;
-  height:100%;
+  background-image:url("abc.jpg");
+  height:100vh;
+  background-size:cover;
+  background-repeat:no-repeat;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  z-index: -10;
+}
+.overlay
+{
+  position: absolute;
+  background-color: rgba(0,0,0,0.4);
+  top:0;
+  bottom:0;
+  z-index: -5;
+  width:98.85vw;
 }
 
 .imgcont
